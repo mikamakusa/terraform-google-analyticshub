@@ -1,0 +1,3 @@
+[submodule "modules/terraform-google-bigquery"]
+	path = modules/terraform-google-bigquery
+	url = git@github.com:mikamakusa/terraform-google-bigquery.git
